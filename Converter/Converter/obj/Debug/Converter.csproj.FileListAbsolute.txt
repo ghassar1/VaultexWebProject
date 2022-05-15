@@ -1,0 +1,7 @@
+C:\Users\Mohamed Ghassar\source\repos\Converter\Converter\bin\Debug\Converter.exe.config
+C:\Users\Mohamed Ghassar\source\repos\Converter\Converter\bin\Debug\Converter.exe
+C:\Users\Mohamed Ghassar\source\repos\Converter\Converter\bin\Debug\Converter.pdb
+C:\Users\Mohamed Ghassar\source\repos\Converter\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+C:\Users\Mohamed Ghassar\source\repos\Converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Ghassar\source\repos\Converter\Converter\obj\Debug\Converter.exe
+C:\Users\Mohamed Ghassar\source\repos\Converter\Converter\obj\Debug\Converter.pdb
